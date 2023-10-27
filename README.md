@@ -1,2 +1,2 @@
 # website-demo
-this is a demo for a new website
+this is a demo for a new website.
